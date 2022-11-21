@@ -1,5 +1,5 @@
 # Olá, me chamo Maria Gabriela! 
-##_Bem vindo ao meu perfil do GitHub_ 👋
+_Bem vindo ao meu perfil do GitHub_ 👋
 
 <!--
 **mvgabriela16/mvgabriela16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
